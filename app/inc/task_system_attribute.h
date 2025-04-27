@@ -78,7 +78,7 @@ typedef struct
 } task_system_dta_t;
 
 /********************** external data declaration ****************************/
-extern task_system_dta_t task_system_dta;
+extern task_system_dta_t task_system_dta[];
 
 /********************** external functions declaration ***********************/
 
